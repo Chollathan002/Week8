@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAUA,AACI,IADA,CACA,MAAM,CAAA;EAVN,SAAS,EAWe,IAAI;EATxB,KAAK,EAAE,UAAU;CAUpB;;AAHL,AAKI,IALA,CAKA,MAAM,CAAC;EAdP,SAAS,EAee,IAAI;EAVxB,KAAK,EAAE,KAAK;CAWf",
+    "sources": [
+        "condition.scss"
+    ],
+    "names": [],
+    "file": "condition.css"
+}

@@ -1,0 +1,19 @@
+body {
+    font-size: 1.2em;
+    background-color: #2e4386;
+  }
+  
+  body h1 {
+    color: #000040;
+    font-size: 2.4em;
+  }
+  
+  body h2 {
+    color: #7e93d6;
+    font-size: 1.8em;
+  }
+  
+  body input {
+    background-color: #e2f7ff;
+  }
+  /*# sourceMappingURL=operator.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,IAAI,CAAA;EACA,SAAS,EAJI,KAAK;EAKlB,gBAAgB,EAAE,OAAgB;CAcrC;;AAhBD,AAII,IAJA,CAIA,EAAE,CAAC;EACC,KAAK,EAAE,OAAgB;EACvB,SAAS,EAAE,KAAmB;CAEjC;;AARL,AASI,IATA,CASA,EAAE,CAAC;EACC,KAAK,EAAE,OAAiB;EACxB,SAAS,EAAE,KAAqB;CACnC;;AAZL,AAaI,IAbA,CAaA,KAAK,CAAC;EACF,gBAAgB,EAAE,OAAiB;CACtC",
+    "sources": [
+        "operator.scss"
+    ],
+    "names": [],
+    "file": "operator.css"
+}
